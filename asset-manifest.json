@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio-react/static/css/main.edd97f8a.css",
+    "main.js": "/Portfolio-react/static/js/main.cca6d98f.js",
+    "static/media/image1.png": "/Portfolio-react/static/media/image1.c4e8ae02b694e7563c07.png",
+    "static/media/portfolio-1.jpg": "/Portfolio-react/static/media/portfolio-1.7e5f2bea380baf12cff7.jpg",
+    "static/media/client-2.png": "/Portfolio-react/static/media/client-2.810cb1e14d416835688e.png",
+    "static/media/client-1.png": "/Portfolio-react/static/media/client-1.9c9f9b37d397509c5da8.png",
+    "static/media/client-3.png": "/Portfolio-react/static/media/client-3.1f0c58f5155c26edd370.png",
+    "static/media/linkendin-icon.png": "/Portfolio-react/static/media/linkendin-icon.0128afaff6cbef8a5b13.png",
+    "static/media/upwork-icon.png": "/Portfolio-react/static/media/upwork-icon.f49cc3148bb9d23be0e7.png",
+    "index.html": "/Portfolio-react/index.html",
+    "main.edd97f8a.css.map": "/Portfolio-react/static/css/main.edd97f8a.css.map",
+    "main.cca6d98f.js.map": "/Portfolio-react/static/js/main.cca6d98f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edd97f8a.css",
+    "static/js/main.cca6d98f.js"
+  ]
+}
